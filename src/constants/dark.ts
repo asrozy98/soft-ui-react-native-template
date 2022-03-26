@@ -85,7 +85,7 @@ export const GRADIENTS: ThemeGradients = {
   danger: ['#FF667C', '#EA0606'],
 
   light: ['#EBEFF4', '#CED4DA'],
-  dark: ['#3A416F', '#141727'],
+  dark: ['#3A416F', '#CB0C9F'],
 
   white: [String(COLORS.white), '#EBEFF4'],
   black: [String(COLORS.black), '#141727'],
